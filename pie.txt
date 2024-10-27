@@ -1,9 +1,0 @@
-外圆：244px，1px solid rgba(255,255,255,0.6);
-内圆： 214px， rgba(255,149,173,0.2)
-内圆2： 184px
-
-v1：linear-gradient(121deg, #FDADC9 0%, #FF0F42 100%);
-v2: linear-gradient(46deg, #FE7D9B 0%, #FE6682 100%);
-v3:  linear-gradient(132deg, #F49099 0%, #FE9BA1 100%);
-v4: linear-gradient(207deg, #FECCC8 0%, #FDE0DD 100%);
-v5: linear-gradient(180deg, #FF96A2 0%, #FFC8BC 100%);
